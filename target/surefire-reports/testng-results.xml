@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-18T13:50:35 CST" name="Suite" finished-at="2024-02-18T13:50:38 CST" duration-ms="2313">
+  <suite started-at="2024-02-18T21:08:45 CST" name="Suite" finished-at="2024-02-18T21:08:48 CST" duration-ms="3304">
     <groups>
     </groups>
-    <test started-at="2024-02-18T13:50:35 CST" name="Test" finished-at="2024-02-18T13:50:38 CST" duration-ms="2313">
-      <class name="restAPI.GetRequest">
-        <test-method signature="test()[pri:0, instance:restAPI.GetRequest@2374d36a]" started-at="2024-02-18T13:50:35 CST" name="test" finished-at="2024-02-18T13:50:38 CST" duration-ms="2250" status="PASS">
+    <test started-at="2024-02-18T21:08:45 CST" name="Test" finished-at="2024-02-18T21:08:48 CST" duration-ms="3304">
+      <class name="restAPI.GetSingleEmployee">
+        <test-method signature="test()[pri:0, instance:restAPI.GetSingleEmployee@2374d36a]" started-at="2024-02-18T21:08:45 CST" name="test" finished-at="2024-02-18T21:08:48 CST" duration-ms="3215" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- restAPI.GetRequest -->
+      </class> <!-- restAPI.GetSingleEmployee -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

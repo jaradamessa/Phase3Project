@@ -9,7 +9,7 @@ import io.restassured.specification.RequestSpecification;
 
 public class DeleteRequest {
 	@Test
-	public void test1() {
+	public void test3() {
 	
 	RestAssured.baseURI = "https://dummy.restapiexample.com/api/v1/delete";
 	
